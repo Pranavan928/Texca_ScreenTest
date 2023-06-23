@@ -2,7 +2,7 @@
 
 #1 - git clone
 
-#2 - cd "path of cloned repository" (.../Texca_ScreenTest)
+#2 - cd "path of repository" (.../Texca_ScreenTest)
 
 #3 - npm install
 
